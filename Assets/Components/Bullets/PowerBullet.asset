@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3509f58e2fcb9d84faf9042d93ad8c9e, type: 3}
   m_Name: PowerBullet
   m_EditorClassIdentifier: 
-  bulletName: Power
+  bulletName: Power Bullet
   damage: 5
   force: 50
   particle: {fileID: 2258790178883974619, guid: 57efcc7b24f953049b5ee35c661ea88d, type: 3}
